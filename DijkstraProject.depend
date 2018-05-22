@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1519008232 source:c:\users\georgeharris\documents\dijkstraproject\dijkstra.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"dijkstra.h"
+
+1519010568 c:\users\georgeharris\documents\dijkstraproject\dijkstra.h
+
+1519007023 source:c:\users\georgeharris\documents\dijkstraproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"dijkstra.h"
+
